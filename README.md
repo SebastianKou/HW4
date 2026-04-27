@@ -14,6 +14,7 @@
 4. Enter it and make sure it copied over
    
    a. cd test-clone
+   
    b. ls
    
 ## Data
