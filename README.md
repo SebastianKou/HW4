@@ -4,12 +4,15 @@
 
 ## Cloning the repository
 1. Go somewhere outside your current project:
+   
    a. cd ~
 
-2. Clone into a test folder
+3. Clone into a test folder
+   
    a. git clone https://github.com/SebastianKou/HW4.git test-clone
 
-3. Enter it and make sure it copied over
+4. Enter it and make sure it copied over
+   
    a. cd test-clone
    b. ls
    
