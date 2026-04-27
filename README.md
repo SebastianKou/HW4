@@ -3,8 +3,16 @@
 
 
 ## Cloning the repository
-1. 
+1. Go somewhere outside your current project:
+   a. cd ~
 
+2. Clone into a test folder
+   a. git clone https://github.com/SebastianKou/HW4.git test-clone
+
+3. Enter it and make sure it copied over
+   a. cd test-clone
+   b. ls
+   
 ## Data
 
 The `data` folder contains the merged panel dataset built from raw HCRIS cost report files. **You must build this dataset before running the notebook.** Run the following scripts in order:
